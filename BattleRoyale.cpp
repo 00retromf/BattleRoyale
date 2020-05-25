@@ -10,7 +10,7 @@
 #include <filesystem>
 #include <experimental/filesystem>
 
-#include "PlayerDefs.hpp"
+#include "PlayerDefs.h"
 #include "AntiCheat.h"
 #include "Islands.h"
 
